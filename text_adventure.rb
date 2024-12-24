@@ -1,4 +1,3 @@
-# text_adventure.rb
 
 def start_game
     puts "Welcome to the Text Adventure Game!"
